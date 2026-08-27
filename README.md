@@ -56,13 +56,13 @@ omarchy-theme-set ducati-panigale
 | `colors.toml` | Source palette (drives all generated configs) |
 | `icons.theme` | GTK icon theme (`Yaru-red`) |
 | `unlock.png` | Plymouth boot splash logo |
-| `backgrounds/` | Wallpaper rotation (3840x2160 WebP) |
+| `backgrounds/` | Wallpaper rotation (2560x1440 PNG) |
 
 ## Wallpapers
 
 Four wallpapers ship in `backgrounds/`:
 
-- `omarchy.webp` — flat wordmark in Ducati red on near-black
-- `1-panigale-front.webp` — front three-quarter studio shot
-- `2-panigale-side.webp` — side profile in a darkened warehouse
-- `3-panigale-detail.webp` — close-up of trellis frame and dash
+- `1-panigale-front.png` — front three-quarter studio shot
+- `2-panigale-side.png` — side profile in a darkened warehouse
+- `3-panigale-detail.png` — close-up of trellis frame and dash
+- `omarchy.png` — default Omarchy logo wallpaper
